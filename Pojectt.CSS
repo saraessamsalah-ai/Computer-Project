@@ -1,0 +1,26 @@
+h1{COLOR: rgb(24, 24, 24)}
+h1{text-align: center;}
+h2{margin-left: 40px;}
+h3{margin-left: 40px;}
+.box{margin-left:40px; font-size: 18px;}
+.submit{margin-left: 600px;}
+.coll{text-align: left;}
+.fresh{text-align: center;background-color: blanchedalmond;font-size:30px; margin-left: 500px;}
+.past{padding-left: 30px;}
+p{font-weight: 800;}
+li{font-size:20px;font-family: Arial, Helvetica, sans-serif; font-weight: 1000;}
+
+::placeholder{text-align: center;font-size: larger;}
+.oven{font-weight: 550;padding-left: 30px;}
+.croi{font-size: 20PX; font-weight: 1000; padding-left: 270PX; padding-right: 550px;}
+.donut{font-size: 20PX; font-weight: 1000;}
+.dy{font-weight: 1000; font-size: 20px; padding-left: 270px; padding-right: 500px;}
+.ny{font-size: 20px;font-weight: 1000;}
+.click{padding-left:25px;}
+.fir{padding-left: 50px;}
+
+.flav{text-align: center;color: rgb(29, 18, 1);}
+.br{font-size: 24px;font-weight: bold;background-color: rgb(249, 229, 204);}
+.fill{border-radius: 5px;padding: 5px;margin: 20px;color:rgb(29, 18, 1); background-color: rgb(240, 228, 215);font-size: 24px; font-weight: bold;}
+.form{font-size: 20px;margin: 20;color: rgb(29, 18, 1);}
+.link{padding-left: 60px; padding-right: 500px;}
